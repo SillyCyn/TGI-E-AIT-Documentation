@@ -12,7 +12,7 @@
 
 ```
 // Nachname, Vorname
-// Import benötiger Klassen (java.util.import.*)
+// Import benötiger Klassen (import java.util.*)
 // Benötigte variablen deklarieren und initialisieren
 
 alter(GZ) = 0
