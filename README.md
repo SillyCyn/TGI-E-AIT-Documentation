@@ -11,4 +11,6 @@ The current contents of this Documentation are the following:
 - Booleans
 - Strings
 
-> Last update at: 15:30 | 21.10.24
+### Pseudo code
+
+> Last update at: 21:20 | 21.10.24
