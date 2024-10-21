@@ -8,7 +8,7 @@
 
 > Dann führt man die benötigten Aktionen aus, in diesem fall die Abfrage des Alters, die überprüfung und ausgabe je nach Eingabe
 
-> Zuletzt deaktivier man den Scanner und beendet das Programm
+> Zuletzt deaktiviert man den Scanner und beendet das Programm
 
 ```
 // Nachname, Vorname
