@@ -16,3 +16,7 @@
 
 > 6. double --> Siehe datentyp nummer 5
 ```
+
+> Die wichtigsten davon (also die Datentypen von nummern welche wir gerade am meisten benutzen) sind die folgenden:
+- int
+- float
