@@ -3,14 +3,14 @@ This small "documentation" will contain everything we learned which is somewhat 
 
 The current contents of this Documentation are the following:
 
-### Usable Objects
-- Scanner
+### Java Stuff
+- [Arithmetische Operatoren](https://github.com/SillyCyn/TGI-E-AIT-Documentation/tree/main/documentation/operators)
 
 ### Types/Values
-- Numbers
-- Booleans
-- Strings
+- [Nummern/Zahlen](https://github.com/SillyCyn/TGI-E-AIT-Documentation/blob/main/documentation/Types%20and%20Values/Numbers.md)
 
 ### Pseudo code
+- [Pseudo Code Datentypen](https://github.com/SillyCyn/TGI-E-AIT-Documentation/blob/main/documentation/pseudo%20code/Daten%20typen.md)
+- [Pseudo Code (Beispiele, etc..)](https://github.com/SillyCyn/TGI-E-AIT-Documentation/tree/main/documentation/pseudo%20code)
 
-> Last update at: 22:20 | 22.10.24
+> Last update at: 15:45 | 23.10.24
