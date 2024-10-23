@@ -4,7 +4,7 @@ This small "documentation" will contain everything we learned which is somewhat 
 The current contents of this Documentation are the following:
 
 ### Java Stuff
-- [Arithmetische Operatoren](https://github.com/SillyCyn/TGI-E-AIT-Documentation/tree/main/documentation/operators)
+- [Operatoren](https://github.com/SillyCyn/TGI-E-AIT-Documentation/tree/main/documentation/operators)
 
 ### Types/Values
 - [Nummern/Zahlen](https://github.com/SillyCyn/TGI-E-AIT-Documentation/blob/main/documentation/Types%20and%20Values/Numbers.md)
