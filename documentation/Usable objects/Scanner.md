@@ -9,25 +9,25 @@
 > Die folgenden methoden können wir verwenden
 
 ```
-> Erstellen eines neuen Scanners: '**new Scanner(System.in)**'
+> Erstellen eines neuen Scanners: 'new Scanner(System.in)'
 
-> Schliesen des Scanners: '**ScannerVariable.close()**'
+> Schliesen des Scanners: 'ScannerVariable.close()'
 
-> Lesen eines booleans (true/false): '**ScannerVariable.nextBoolean()**'
+> Lesen eines booleans (true/false): 'ScannerVariable.nextBoolean()'
 
-> Lesen eines byte datentyp: '**ScannerVariable.nextByte()**'
+> Lesen eines byte datentyp: 'ScannerVariable.nextByte()'
 
-> Lesen eines double datentyps: '**ScannerVariable.nextDouble()**'
+> Lesen eines double datentyps: 'ScannerVariable.nextDouble()'
 
-> Lesen eines float datentyps: '**ScannerVariable.nextFloat()**'
+> Lesen eines float datentyps: 'ScannerVariable.nextFloat()'
 
-> Lesen eines int datentyps: '**ScannerVariable.nextInt()**'
+> Lesen eines int datentyps: 'ScannerVariable.nextInt()'
 
-> Lesen eines string datentyps: '**ScannerVariable.nextLine()**'
+> Lesen eines string datentyps: 'ScannerVariable.nextLine()'
 
-> Lesen eines long datentyps: '**ScannerVariable.nextLong()**'
+> Lesen eines long datentyps: 'ScannerVariable.nextLong()'
 
-> Lesen eines short datentyps: '**ScannerVariable.nextShort()**'
+> Lesen eines short datentyps: 'ScannerVariable.nextShort()'
 ```
 
 ***
