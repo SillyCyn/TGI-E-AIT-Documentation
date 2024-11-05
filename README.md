@@ -5,6 +5,8 @@ The current contents of this Documentation are the following:
 
 ### Java Stuff
 - [Operatoren](https://github.com/SillyCyn/TGI-E-AIT-Documentation/tree/main/documentation/operators)
+- [Scanner Objekt](https://github.com/SillyCyn/TGI-E-AIT-Documentation/blob/main/documentation/Usable%20objects/Scanner.md)
+
 
 ### Types/Values
 - [Nummern/Zahlen](https://github.com/SillyCyn/TGI-E-AIT-Documentation/blob/main/documentation/Types%20and%20Values/Numbers.md)
